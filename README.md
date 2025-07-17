@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikechao-balldontlie-mcp-badge.png)](https://mseep.ai/app/mikechao-balldontlie-mcp)
+
 # Balldontlie MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@mikechao/balldontlie-mcp)](https://smithery.ai/server/@mikechao/balldontlie-mcp)
