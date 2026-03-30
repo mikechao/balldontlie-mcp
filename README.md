@@ -124,3 +124,8 @@ This MCP server is licensed under the MIT License. This means you are free to us
 ## Disclaimer
 
 This library is not officially associated with balldontlie.io. It is a third-party implementation of the balldontlie api with a MCP Server.
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/mikechao-balldontlie-mcp).
+
