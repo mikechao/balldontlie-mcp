@@ -1,4 +1,5 @@
 # Balldontlie MCP Server
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/mikechao/balldontlie-mcp)](https://archestra.ai/mcp-catalog/mikechao__balldontlie-mcp)
 
 [![smithery badge](https://smithery.ai/badge/@mikechao/balldontlie-mcp)](https://smithery.ai/server/@mikechao/balldontlie-mcp)
 
