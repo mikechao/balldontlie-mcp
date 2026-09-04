@@ -1,7 +1,7 @@
 # Balldontlie MCP Server
 [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/mikechao/balldontlie-mcp)](https://archestra.ai/mcp-catalog/mikechao__balldontlie-mcp)
 
-[![smithery badge](https://smithery.ai/badge/@mikechao/balldontlie-mcp)](https://smithery.ai/server/@mikechao/balldontlie-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.mikechao/balldontlie-mcp)](https://lightnow.ai/servers/io.github.mikechao/balldontlie-mcp)
 
 [![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/07e29bcd-3fb7-46e6-b4b9-8908b3ef18f2)
 
@@ -129,4 +129,3 @@ This library is not officially associated with balldontlie.io. It is a third-par
 ## Hosted deployment
 
 A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/mikechao-balldontlie-mcp).
-
